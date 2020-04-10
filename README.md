@@ -7,3 +7,5 @@
   lol
   
   pull test
+
+  push test
